@@ -1,5 +1,6 @@
 #python version 2.7.13
 #calculates GCD of two numbers
+#-----------------------------
 def main():
 	print "Calculate GCD";
 	a = eval(raw_input("Enter first number: "));
